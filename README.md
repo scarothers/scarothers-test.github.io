@@ -1,4 +1,5 @@
-scarothers.github.io
-====================
+# scarothers' Homepage 
 
-Example repo and site for NICAR training session. 
+---
+
+Just a basic sample of GitHub.io pages. 
